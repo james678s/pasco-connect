@@ -36,7 +36,7 @@ pasco connect is an advanced web application designed to simplify and streamline
 
 
 ## Author
-- **Name:** James Neal   *Expert in Full Stack Development*  
+- **Name:** James Neal 
 - **Email:** james678neal@outlook.com
 - **Website:** pasco connect
 
