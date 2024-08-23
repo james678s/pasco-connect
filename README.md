@@ -1,7 +1,9 @@
 # pasco-connect
 
 
-- pasco connect is an advanced web application designed to simplify and streamline the process of managing and tracking expenses. With an intuitive interface and robust feature set, pasco connect is the perfect solution for individuals and organizations looking to maintain control over their finances. Whether you need to monitor personal spending or oversee the budget of an entire team, this application offers the tools you need to categorize, track, and analyze expenses effortlessly.
+ pasco connect is an advanced web application designed to simplify and streamline the process of managing and tracking expenses. With an intuitive interface and robust feature set, pasco connect is the perfect solution for individuals and organizations looking to maintain control over their finances. 
+
+ Whether you need to monitor personal spending or oversee the budget of an entire team, this application offers the tools you need to categorize, track, and analyze expenses effortlessly.
 
 ## Features
 
