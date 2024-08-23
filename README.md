@@ -1,7 +1,7 @@
 # pasco-connect
 
 
-pasco connect is an advanced web application designed to simplify and streamline the process of managing and tracking expenses. With an intuitive interface and robust feature set, pasco connect is the perfect solution for individuals and organizations looking to maintain control over their finances. Whether you need to monitor personal spending or oversee the budget of an entire team, this application offers the tools you need to categorize, track, and analyze expenses effortlessly.
+- pasco connect is an advanced web application designed to simplify and streamline the process of managing and tracking expenses. With an intuitive interface and robust feature set, pasco connect is the perfect solution for individuals and organizations looking to maintain control over their finances. Whether you need to monitor personal spending or oversee the budget of an entire team, this application offers the tools you need to categorize, track, and analyze expenses effortlessly.
 
 ## Features
 
@@ -42,9 +42,9 @@ pasco connect is an advanced web application designed to simplify and streamline
 
 Senior Full Stack Developer & Software Architect
 
-James Neal is a highly experienced software developer with over a decade of experience in the industry. With a strong background in both front-end and back-end technologies, James has a deep understanding of the entire web development process. His expertise spans a variety of programming languages and frameworks, with a particular focus on creating scalable and maintainable code.
+- James Neal is a highly experienced software developer with over a decade of experience in the industry. With a strong background in both front-end and back-end technologies, James has a deep understanding of the entire web development process. His expertise spans a variety of programming languages and frameworks, with a particular focus on creating scalable and maintainable code.
 
-James is passionate about sharing his knowledge with the community, regularly contributing to open-source projects and mentoring junior developers. He believes in the power of continuous learning and is always exploring the latest trends and technologies in the field.
+- James is passionate about sharing his knowledge with the community, regularly contributing to open-source projects and mentoring junior developers. He believes in the power of continuous learning and is always exploring the latest trends and technologies in the field.
 
 ## Getting Started
 
