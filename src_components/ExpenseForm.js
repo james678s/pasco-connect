@@ -20,3 +20,19 @@ function ExpenseForm() {
           required
         />
      
+      </div>
+      <div className="form-group">
+        <label>Amount</label>
+        <input
+          type="number"
+          value={amount}
+          onChange={(e) => setAmount(e.target.value)}
+          required
+        />
+      </div>
+      <button type="submit">Add Expense</button>
+    </form>
+  );
+}
+
+export default ExpenseForm;
